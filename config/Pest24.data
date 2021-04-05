@@ -1,0 +1,7 @@
+classes=37
+train=data/Pest24/ImageSets/train_use.txt
+valid=data/Pest24/ImageSets/val_use.txt
+test=data/Pest24/ImageSets/test_use.txt
+names=data/Pest24/Pest24.names
+backup=backup/
+eval=coco

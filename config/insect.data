@@ -1,0 +1,7 @@
+classes=7
+train=data/insect/ImageSets/train_use.txt
+valid=data/insect/ImageSets/val_use.txt
+test=data/insect/ImageSets/test_use.txt
+names=data/insect/insect.names
+backup=backup/
+eval=coco

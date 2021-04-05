@@ -1,0 +1,7 @@
+classes= 80
+train=data/insect/ImageSets/train.txt
+valid=data/insect/ImageSets/val.txt
+test=data/insect/ImageSets/test.txt
+names=data/insect/insect.names
+backup=backup/
+eval=coco
